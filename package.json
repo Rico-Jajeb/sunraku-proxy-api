@@ -1,0 +1,13 @@
+{
+  "name": "sunraku-proxy-api",
+  "version": "1.0.0",
+  "description": "Proxy API for React Native using Vercel to fetch tech skills JSON from InfinityFree",
+  "main": "api/tech-skills.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "keywords": ["vercel", "proxy", "api", "react-native", "laravel", "infinityfree"],
+  "author": "SunRaku",
+  "license": "MIT"
+}
